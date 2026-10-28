@@ -1,0 +1,3 @@
+crm_demo.db
+.streamlit/secrets.toml
+__pycache__/
